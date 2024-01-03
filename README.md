@@ -18,10 +18,13 @@ Twine drops into existing web applications via the Twine client and server libra
 <div style="display: flex; justify-content: space-between;">
     <a href="https://twine-realtime.github.io" target="_blank">
       <img src="https://github.com/ChristopherBrum/ChristopherBrum/assets/31198605/7ef2ce24-0f47-49c0-a7fb-b7366d0539e8" 
-      alt="Image 2" width="460">
+          alt="Image 2" 
+          width="400">
     </a>
     <a href="https://twine-realtime.github.io" target="_blank">
-      <img src="https://github.com/ChristopherBrum/ChristopherBrum/assets/31198605/34d75bad-b1c2-46b6-b02d-164690f07d8d" alt="Image 2" width="460">
+      <img src="https://github.com/ChristopherBrum/ChristopherBrum/assets/31198605/34d75bad-b1c2-46b6-b02d-164690f07d8d" 
+          alt="Image 2" 
+          width="400">
     </a>
 </div>
 <br>
