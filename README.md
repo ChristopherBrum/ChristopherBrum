@@ -76,4 +76,4 @@ Twine drops into existing web applications via the Twine client and server libra
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I rode my motorcycle to South America and have an orange cat named Beemo. 
