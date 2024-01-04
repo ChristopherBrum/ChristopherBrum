@@ -8,27 +8,6 @@
 
 Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-scaling WebSocket Infrastructure designed for modern web applications. It's a drop-in solution that prioritizes connection state recovery, providing a foundation for real-time experiences.
 
-Built remotely with three teammates from different parts of the world, Twine provides an auto-scaling WebSocket infrastructure that deploys under a developer's AWS account, without compromising credentials.
-
-This infrastructure includes a load-tested pub/sub mechanism that developers access through a secure API and automatic client connection state recovery. Additionally, it persists all published data as a backup and gives developers complete control of their data and WebSocket infrastructure.
-
-Twine drops into existing web applications via the Twine client and server libraries.
-
-<br>
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://twine-realtime.github.io" target="_blank">
-      <img src="https://github.com/ChristopherBrum/ChristopherBrum/assets/31198605/7ef2ce24-0f47-49c0-a7fb-b7366d0539e8" 
-          alt="Image 2" 
-          width="400">
-    </a>
-    <a href="https://twine-realtime.github.io" target="_blank">
-      <img src="https://github.com/ChristopherBrum/ChristopherBrum/assets/31198605/34d75bad-b1c2-46b6-b02d-164690f07d8d" 
-          alt="Image 2" 
-          width="400">
-    </a>
-</div>
-<br>
-
 *Technologies Used - TypeScript, Socket.IO, Docker, and AWS (DynamoDB, Elasticache for Redis, EC2, ALB, ELB, CloudFront, S3).*
 
 <br>
