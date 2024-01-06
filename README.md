@@ -6,7 +6,7 @@
 
 ### ⚡ Twine Real-Time
 
-Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-scaling real-time service designed for modern web applications. It's a drop-in solution that prioritizes connection state recovery, providing a foundation for real-time experiences.
+Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-scaling Websocket infrastructure designed for modern web applications. It's a drop-in solution that prioritizes connection state recovery, providing a foundation for real-time experiences.
 
 *Technologies Used - TypeScript, Socket.IO, Docker, and AWS (DynamoDB, Elasticache for Redis, EC2, ALB, ELB, CloudFront, S3).*
 
