@@ -2,9 +2,9 @@
 
 🚀 I’m a full-stack Software Engineer based in Portland, Oregon with experience with JavaScript, TypeScript, Node.js, Ruby, Go, PostgreSQL, MongoDB, React, Docker, and AWS. I'm passionate about creative problem solving and I'm always eager to learn new technologies. 💻✨
 
----
+<br>
 
-### ⚡ Twine Real-Time
+## ⚡ Twine Real-Time
 
 Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-scaling Websocket infrastructure designed for modern web applications. It's a drop-in solution that prioritizes connection state recovery, providing a foundation for real-time experiences.
 
@@ -16,9 +16,9 @@ Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-sc
 
 🗣️ [Watch the Twine Tech Talk](https://twine-realtime.github.io/#two)
 
----
+<br>
 
-### 🛠️ Technologies and tools I have experience with:
+## 🛠️ Technologies and tools I have experience with:
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -40,9 +40,9 @@ Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-sc
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
 
----
+<br>
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/chris-brum/">
@@ -53,6 +53,8 @@ Most recently, I developed [Twine](https://twine-realtime.github.io), an auto-sc
   </a>
 </div>
 
-### ⚡ Fun fact
+<br>
+
+## ⚡ Fun fact
 
 I rode my motorcycle to South America and have an orange cat named Beemo. 
