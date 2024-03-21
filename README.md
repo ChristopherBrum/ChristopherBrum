@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher Brum 👨‍💻
 
-🚀 I’m a full-stack software engineer based in Portland, Oregon, experienced with JavaScript, TypeScript, Node.js, Ruby, Go, PostgreSQL, MongoDB, Redis, React, Docker, and AWS. I'm passionate about creative problem solving and I'm always eager to learn new technologies. 💻✨
+🚀 Hi, I'm Christopher, a software engineer passionate about solving complex problems, driving positive environmental change, and the power of collaboration. As a career transitioner with experience as a former small business owner and musician, I offer a unique blend of skills and perspectives to every team I join.. 💻✨
 
 <br>
 
