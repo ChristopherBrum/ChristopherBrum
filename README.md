@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Christopher Brum 👨‍💻
+# 👋 Hi, I'm Christopher Brum
 
-🚀 Hi, I'm Christopher, a software engineer passionate about solving complex problems, driving positive environmental change, and the power of collaboration. As a career transitioner with experience as a former small business owner and musician, I offer a unique blend of skills and perspectives to every team I join.. 💻✨
+🚀 I'm a software engineer passionate about solving complex problems, driving positive environmental change, and the power of collaboration. As a career transitioner with experience as a former small business owner and musician, I offer a unique blend of skills and perspectives to every team I join.. 💻✨
 
 <br>
 
