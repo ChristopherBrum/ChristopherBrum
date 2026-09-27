@@ -50,6 +50,9 @@ At LoadUp, I independently designed and built Elasticsearch search infrastructur
 Open to new opportunities — feel free to reach out.
 
 <div display="flex">
+  <a href="mailto:christopher.brum@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/chris-brum/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
