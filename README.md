@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Christopher Brum
 
-📬 Open to new opportunities — reach out via LinkedIn or email.
-
 🚀 I'm a software engineer focused on backend systems, APIs, and infrastructure, with a DevOps bent. Most recently, I built search infrastructure, payment systems, and API integrations for a nationwide logistics platform. Before that, I co-created Twine, an open-source auto-scaling WebSocket service, with a team of four engineers. As a career transitioner with experience as a former small business owner and musician, I bring a different perspective to every team I join. 💻✨
 
 <br>
@@ -48,6 +46,8 @@ At LoadUp, I independently designed and built Elasticsearch search infrastructur
 <br>
 
 ## 📫 How to reach me
+
+Open to new opportunities — feel free to reach out.
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/chris-brum/">
