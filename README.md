@@ -65,4 +65,4 @@ Open to new opportunities — feel free to reach out.
 
 ## ⚡ Fun fact
 
-I rode my motorcycle to South America and have two cats named Beemo and Helly, aka Hellmo.
+I rode my motorcycle to South America and have two cats named Beemo and Helly, aka Hellmo. I also made a slightly unhinged [Snake game](https://github.com/ChristopherBrum/snake-brains) where you guide a snake through a post-apocalyptic wasteland eating brains, because sometimes you just need to build something silly.
